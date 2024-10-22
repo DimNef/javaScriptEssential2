@@ -17,3 +17,9 @@ function checkCountValue() {
         alert("Your post gained 20 followers!");
     }
 }
+
+function resetCount() {
+    count = 0;
+    displayCount();
+    alert("Followers count has been reset");
+}
