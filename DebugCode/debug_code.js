@@ -3,9 +3,10 @@ function performOperation() {
     let number2 = parseInt(document.getElementById('input2').value);
 
     if (!isNaN(number1) && !isNaN(number2)) {
-        let result = multiply(number1, number2);
+        let result = addAndMultiply(number1, number2);
         displayResult(result);
     } else {
+        debugger;
         displayResult('Please enter valid numbers');
     }
 }
@@ -13,6 +14,11 @@ function performOperation() {
 function multiply(a, b) {
     debugger;
     return a * b;
+}
+
+function addAndMultiply(a, b) {
+    debugger;
+    return (a + b) * b;
 }
 
 function displayResult(result) {
