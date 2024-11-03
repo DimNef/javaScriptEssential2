@@ -1,0 +1,23 @@
+{
+    "articles": [
+      {
+        "title": "John Moore is dead",
+        "headline": "John Moore died yeterday, age 45",
+        "info": [
+          "Famous director of numerous blockbusters.",
+          "Husband of actress Joan Moore",
+          "Infamous for white tash parties"
+        ]
+      },
+      {
+        "title": "Healthy Eating Habits for a Balanced Life",
+        "headline": "Recent studies highight the benefits of a balanced diet.",
+        "info": [
+          "Consume a variety of colorful fruits and vegetables daily.",
+          "Opt for whole grains like brown rice, quinoa, and whole wheat bread.",
+          "Choose lean sources of protein such as poultry, fish, beans, and nuts.",
+          "Incorporate healthy fats from sources like avocados, olive oil, and nuts."
+        ]
+      }
+    ]
+}
